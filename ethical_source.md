@@ -1,4 +1,10 @@
-<center><img src="https://activeq.github.io/aq.jpg" ></center>
+# ActiveQuery Ethical Source Policy
+
+[![](https://gpvc.arturio.dev/ActiveQ)](#)
+[![](https://img.shields.io/badge/Coverage-100%25-brightgreen)](#)
+[![](https://img.shields.io/badge/Open%20Source%20License-OSL%203.0-brightgreen)](#)
+[![](https://img.shields.io/badge/ActiveQuery%20Complance%Framework-v21.0-brightgreen)](#)
+
 
 [![](https://img.shields.io/badge/Ethical%20Source%20Policy-1F618D)](#)
 [![](https://img.shields.io/badge/Contributors%20Covenant-1F618D)](#)
@@ -9,29 +15,22 @@
 [![](https://img.shields.io/badge/Ethical%20Privacy-1F618D)](#)
 [![](https://img.shields.io/badge/Ethical%20Compensation-1F618D)](#)
 
-[![](https://gpvc.arturio.dev/ActiveQ)](#)
-[![](https://img.shields.io/badge/ActiveQ%20Coverage-100%25-brightgreen)](#)
-[![](https://img.shields.io/badge/ActiveQ%20Dependencies-up%20to%20date-brightgreen)](#)
-[![](https://img.shields.io/badge/ActiveQ%20Open%20Source%20License-OSL%203.0-brightgreen)](#)
-[![](https://img.shields.io/badge/ActiveQ%20Governance-v21.0-brightgreen)](#)
 
+[![](https://img.shields.io/badge/ActiveQuery%20Cascading%20Style%20Sheets%20(AQCSS)™-76448A)](#)
+[![](https://img.shields.io/badge/ActiveQuery%20Cascading%20JavaScript%20(AQJS)™-76448A)](#)
+[![](https://img.shields.io/badge/ActiveQuery%20Intelligence%20(AQI)™-76448A)](#)
+[![](https://img.shields.io/badge/ActiveQuery%20Progressive%20Enhancement%20(AQPE)™-76448A)](#)
+[![](https://img.shields.io/badge/ActiveQuery%20Stream%20(AQS)™-76448A)](#)
+[![](https://img.shields.io/badge/ActiveQuery%20Keep%20It%20Simple%20Smart%20(AQKISS)™-76448A)](#)
+[![](https://img.shields.io/badge/ActiveQuery%20Open%20Source%20Software%20(AQOSS)-76448A)](#)
 
+ 
 
-[![](https://img.shields.io/badge/Active%20Query%20Cascading%20Style%20Sheets%20(AQCSS)™-76448A)](#)
-[![](https://img.shields.io/badge/Active%20Query%20Cascading%20JavaScript%20(AQJS)™-76448A)](#)
-[![](https://img.shields.io/badge/Active%20Query%20Intelligence%20(AQI)™-76448A)](#)
-[![](https://img.shields.io/badge/Active%20Query%20Progressive%20Enhancement%20(AQPE)™-76448A)](#)
-[![](https://img.shields.io/badge/Active%20Query%20Stream%20(AQS)™-76448A)](#)
-[![](https://img.shields.io/badge/Active%20Query%20Keep%20It%20Simple%20Smart%20(AQKISS)™-76448A)](#)
-[![](https://img.shields.io/badge/Active%20Query%20Open%20Source%20Software%20(AQOSS)-76448A)](#)
-
-
-# ActiveQ Ethical Source Policy
 
 ## Our Pledge
-Active Query (synonymous with and wheresoever abbreviated as "ActiveQ" or "AQ", whether upper cased, lower cased or capitalised)
-meassures success through impact rather than intentions. ActiveQ Ethical Source Policy is informed by below seven principle points 
-and applies to all parts of ActiveQ  projects, programmes, respositeries and spaces. 
+ActiveQuery (synonymous with "Active Query" and wheresoever abbreviated as "ActiveQ" or "AQ", whether upper cased, lower cased or 
+capitalised) meassures success through impact rather than intentions. ActiveQuery Ethical Source Policy is informed by below seven 
+principle points and applies to all parts of ActiveQuery  projects, programmes, respositeries and spaces. 
 
 ### 1. Our work benefits the commons.
 We grant permission to modify, create derivative works, use and reuse it, in the
@@ -65,22 +64,20 @@ in other tangible ways.
 ## Enforcement
 
 Instances of violation or otherwise unacceptable behavior in relation to this policy may be
-reported by contacting ActiveQ at <activeq.framework@gmail.com>. 
+reported by contacting ActiveQuery at <activeq.framework@gmail.com>. 
 
-ActiveQ Governance Body is obligated to maintain confidentiality with regard to
+ActiveQuery Compliance team is obligated to maintain confidentiality with regard to
 the reporter of an incident. All complaints will be reviewed and investigated and may result
 in a response that is deemed necessary and appropriate to the circumstances. 
 
 In Contomitance to above end users, contributors and maintainers who do not follow or enforce the
 Ethical Scource Policy in good faith may face temporary or permanent repercussions as determined
-by ActiveQ Governance Body.
+by ActiveQuery Compliance Body.
 
 Ethical Source Policy is available through file titled ETHICAL_SOURCE_POLICY placed at the root
-directory of each ActiveQ repository and is also available through web access at
+directory of each ActiveQuery repository and is also available through web access at
 
-https://activeq.github.io/governance or
-
-https://github.com/ActiveQ/Governance
+https://ActiveQuery.github.io/governance or  https://github.com/ActiveQuery/Governance
 
 Further details of specific enforcement of policies may be posted separately.
 
@@ -89,7 +86,7 @@ Further details of specific enforcement of policies may be posted separately.
 This Etical Source Policy is adapted from [The Ethical Source Movement][EPS], 
 available at https://ethicalsource.dev/principles/
 
-[ActiveQ Governanace Framework - Copyright © 2020 - Present Syed Kazmi][homepage]
+[ActiveQuery Compliance Framework - Copyright © 2020 - Present Syed Kazmi][homepage]
 
 [EPS]: https://ethicalsource.dev/
-[homepage]: https://github.com/ActiveQ/Governance/
+[homepage]: https://github.com/ActiveQuery/Governance/
