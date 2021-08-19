@@ -30,11 +30,15 @@ lower cased or capitalised) and applies to all parts of ActiveQuery projects, pr
 In the interest of fostering an open and welcoming environment ActiveQuery Governance Framework has been adopted 
 in persuance of envisioning and enforcing policies, licenses, agreements and guidelines;
 
+* [Open Source License][LI]
+* 
 * [Ethical Source Policy][ESP]
 
 * [Code of Conduct Policy][COCP]
 
-* [Developer Certificate of Origin][DCO] 
+* [Developer Certificate of Origin][DCO]
+
+
 
 Above policy documents are available through files placed at the root directory of each ActiveQuery repository and 
 are also available through web access at
@@ -46,5 +50,6 @@ Further details of specific policies and their enforcement may be posted separat
 [ESP]: ETHICAL_SOURCE_POLICY.md
 [COCP]: CODE_OF_CONDUCT_POLICY.md
 [DCO]: DCO.md
+[LI]: LICENSE.md
 
-ActiveQuery Compliance Framework - Copyright © 2020 - Present Syed Kazmi
+ActiveQuery Compliance Framework - Copyright © 2018 - Present Syed Kazmi
