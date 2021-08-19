@@ -112,7 +112,7 @@ Further details of specific enforcement policies may be posted separately.
 This Code of Conduct Policy is adapted from the [Contributor Covenant][COC], 
 version 1.4, available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
 
-[ActiveQ compliance Framework - Copyright © 2020 - Present Syed Kazmi][homepage]
+[ActiveQuery Compliance Framework - Copyright © 2020 - Present Syed Kazmi][homepage]
 
 [COC]: https://www.contributor-covenant.org
 [homepage]: https://github.com/ActiveQuery/Governance/
