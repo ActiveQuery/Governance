@@ -86,7 +86,7 @@ Further details of specific enforcement of policies may be posted separately.
 This Etical Source Policy is adapted from [The Ethical Source Movement][EPS], 
 available at https://ethicalsource.dev/principles/
 
-[ActiveQuery Compliance Framework - Copyright © 2020 - Present Syed Kazmi][homepage]
+[ActiveQuery Compliance Framework - Copyright © 2018 - Present Syed Kazmi][homepage]
 
 [EPS]: https://ethicalsource.dev/
 [homepage]: https://github.com/ActiveQuery/Governance/
