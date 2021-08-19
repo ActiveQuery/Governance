@@ -1,4 +1,4 @@
-# ActiveQuery Ethical Source Policy
+# ActiveQuery Ethical Source Policy v21.0
 
 [![](https://gpvc.arturio.dev/ActiveQ)](#)
 [![](https://img.shields.io/badge/Coverage-100%25-brightgreen)](#)
