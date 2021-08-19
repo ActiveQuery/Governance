@@ -54,20 +54,7 @@ ActiveQuery has incorporated [Ethical Source Princpels](ETHICAL_SOURCE_POLICY.md
 expect all participants  to adhere to them. In order to grasp wider understanding as to what is 
 involved, it is recommended that you read full text before proceeding.
 
-## 3. Calender Versioning (CalVer)
-ActiveQuery follows [CalVer scheme of semantic versioning](https://calver.org) and has adopted 
-YYYY.MINOR.MICRO as  incremented version numbering format.
-
-| CalVer Fromat  | Significance | Example |
-| ------------- | ------------- | ------------- |
-| YYYY  | Contarary to SemVer which uses arbitery numbering starting from 0 and incrimenting as 1,2,3 etc CalVer always uses year of release as first number for major segment numbering. | If release year is 2020 then YY indicates 2020 |
-| MINOR  | The second number referres to critical functionality releases as "breaking changes" starting from number 1 instead of 0. | 2020.1 > 2020.2 >> 2020.5 |
-| MICRO  | The third and usually final number referres to critical bugfix releases as "patch works" starting from number 1 instead of 0.  | 2020.1.1 > 2020.1.2 >> 2020.1.13 |
-
-
-When making breaking changes, we may also introduce deprecation warnings in a MICRO version first so that our users learn about the upcoming changes and migrate their code in advance.
-
-## 4. Open Source Software License (OSSL)
+## 3. Open Source Software License (OSSL)
 
 ActiveQuery is Open Source Software (OSS) by intent, and has adopted Terms & Conditions 
 of [Open Software License v. 3.0](LICENSE.md), and applies to all parts of this software, 
@@ -78,7 +65,7 @@ ActiveQuery Compliance Team will review and make appriate checks in this reagrd 
 contribution. Adverse consequence may be in rejection or repeal of accepted submissions. Thus, 
 contributors must make due deligence checks before submiting contibutions, with dependencies included.
 
-#### 4.A. Open Software License v. 3.0 Compatiblity Chart
+#### 3.A. Open Software License v. 3.0 Compatiblity Chart
 
 This is not an exhustive list, and may be subject to change without perior notice.
 
@@ -93,8 +80,21 @@ This is not an exhustive list, and may be subject to change without perior notic
 | ISC  | As such Public Domain is not acceptable |
 | Unlicensed |  |
 
-#### 4.B. Special Clauses
+#### 3.B. Special Clauses
 Incase dependencies might specify additional license clauses, that would introduce restriction of use, 
 legal compliance must be verified before hand.
+
+## 4. Calender Versioning (CalVer)
+ActiveQuery follows [CalVer scheme of semantic versioning](https://calver.org) and has adopted 
+YYYY.MINOR.MICRO as  incremented version numbering format.
+
+| CalVer Fromat  | Significance | Example |
+| ------------- | ------------- | ------------- |
+| YYYY  | Contarary to SemVer which uses arbitery numbering starting from 0 and incrimenting as 1,2,3 etc CalVer always uses year of release as first number for major segment numbering. | If release year is 2020 then YY indicates 2020 |
+| MINOR  | The second number referres to critical functionality releases as "breaking changes" starting from number 1 instead of 0. | 2020.1 > 2020.2 >> 2020.5 |
+| MICRO  | The third and usually final number referres to critical bugfix releases as "patch works" starting from number 1 instead of 0.  | 2020.1.1 > 2020.1.2 >> 2020.2.13 |
+
+
+When making breaking changes, we may also introduce deprecation warnings in a MICRO version first so that our users learn about the upcoming changes and migrate their code in advance.
 
 ## Conventions
