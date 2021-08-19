@@ -33,6 +33,8 @@ in persuance of envisioning and enforcing policies, licenses, agreements and gui
 
 * [Code of Conduct Policy][COCP]
 
+* [Developer Certificate of Origin][DCO] 
+
 Above policy documents are available through files placed at the root directory of each ActiveQuery repository and 
 are also available through web access at
 
@@ -42,6 +44,6 @@ Further details of specific policies and their enforcement may be posted separat
 
 [ESP]: ETHICAL_SOURCE_POLICY.md
 [COCP]: CODE_OF_CONDUCT_POLICY.md
-
+[DCO]: DCO.md
 
 ActiveQuery Compliance Framework - Copyright © 2020 - Present Syed Kazmi
