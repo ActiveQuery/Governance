@@ -124,23 +124,32 @@ When making breaking changes, we may also introduce deprecation warnings through
 users may learn about the upcoming changes and migrate their code base in advance. Change are documented in 
 the CHANGELOG file placed at the root of each repository.
 
-### 5.B. Naming Logics 
+### 5.B. Naming Standards
 
-ActiveQuery has standarised below logic as naming conventions, and apply to all parts of ActiveQuery 
-Projects, Programmes, respositories and spaces.
+ActiveQuery has standarised namig logic and apply to all parts of ActiveQuery projects, Programmes, respositories 
+and spaces. 
+
+ActiveQuery Compliance Team strictly enforces these naming stadards, and adopting naming standards 
+other than as stated against each sub-section of section 5.B is not acceptable. 
+
+Consequent may cause rejection of commit or repeal of previous submited contributions. 
 
 ### 5.B.1 Branding
 
-ActiveQuery (synonymous with "Active Query" and wheresoever abbreviated as "ActiveQ" 
-or "AQ", whether upper cased, lower cased or capitalised) will always follow **Pascal Case**.
-However, this does not refute the probability where adoption is not possible e.g. in case of 
-web url(s) or otherwise, then **Kebab Case** be used as fallback.
+**5.B.1.i.** ActiveQuery (synonymous with "Active Query" and wheresoever abbreviated as "ActiveQ" 
+or "AQ", whether upper cased, lower cased or capitalised) branding will always follow 
+**Pascal Case**. 
+
+However, this does not refute the probability where adoption is not possible e.g. in case of web url(s)
+or otherwise, then **Kebab Case** will be adopted as fallback.
 
 | Pascal Case | Kebab Case |
 | ------------- | ------------- |
 | /Governance  | /governance |
 | /ActiveQuery  | /active-query |
-| /active-query/ABRReaminUnchnaged/  | /active-query/ABR-reamin-unchnaged |
+| /active-query/ABRReaminUnchanged/  | /active-query/ABR-reamin-unchanged |
+
+**5.B.1.ii.** Letters **"aq"** in ActiveQuery graphical Logo will strictly use **Lower Case** as styling.
 
 ### 5.B.2 File & Folder
 
@@ -148,8 +157,8 @@ ActiveQuery follows **Pascal Case** for naming all files and folders.
 
 | File/Folder  | Pascal Case |
 | ------------- | ------------- |
-| some file  | SomeFile |
-| some folder  | SomeFolder |
+| file  | File |
+| folder  | Folder |
 | some folder/some file  | SomeFolder/SomeFile |
 | ABBR remain unchanged  | ABBRRemainUnchanged |
 | ABBR folder/ABBR file  | ABBRFolder/ABBRFile |
@@ -166,18 +175,18 @@ ActiveQuery follows **Screaming Snake Case** for naming all ledgal documentation
 
 ### 5.B.4 JavaScript (JS)
 
-**5.B.4.i.** ActiveQuery follows **Dromedary Case** for naming all JS functions and Objects.
+**5.B.4.i.** ActiveQuery follows **Dromedary Case** for naming all JS Objects.
 
-| JS Functions/Objects | Dromedary Case |
+| JS Objects | Dromedary Case |
 | ------------- | ------------- |
 | my  | my |
 | myfunction  | myFunction |
 | myobject  | myObject |
 | myobjectname  | myObjectName |
 
-**5.B.4.ii.** ActiveQuery follows **Pascal Case** for naming all JS Classes & Constants.
+**5.B.4.ii.** ActiveQuery follows **Pascal Case** for naming all JS Classes.
 
-| JS Classes/Constants | Pascal Case |
+| JS Classes | Pascal Case |
 | ------------- | ------------- |
 | my  | My |
 | myclass  | MyClass |
@@ -192,5 +201,6 @@ ActiveQuery follows **Kebab Case** for naming all CSS Classes and Variables.
 | my  | my |
 | my class  | my-class |
 | my variable | --my-variable |
+
 
 
