@@ -114,9 +114,9 @@ YYYY.MINOR.MICRO as  incremented version numbering format.
 
 | CalVer Fromat  | Significance | Example |
 | ------------- | ------------- | ------------- |
-| YYYY  | Contarary to SemVer which uses arbitery numbering starting from 0 and incrimenting as 1,2,3 etc CalVer always uses year of release as first number for major segment numbering. | If release year is 2020 then YYYY indicates 2020 |
-| MINOR  | The second number referres to critical functionality releases as "breaking changes" starting from number 1 instead of 0. | 2020.1 > 2020.2 >> 2020.5 |
-| MICRO  | The third and usually final number referres to critical bugfix releases as "patch works" starting from number 1 instead of 0.  | 2020.1.1 > 2020.1.2 >> 2020.2.13 |
+| YY  | Contarary to SemVer which uses arbitery numbering starting from 0 and incrimenting as 1,2,3 etc CalVer always uses year of release as first number for major segment numbering. | If release year is 2020 then YY indicates 20 |
+| MINOR  | The second number referres to critical functionality releases as "breaking changes" starting from number 1 instead of 0. | 20.1 > 20.2 >> 20.5 |
+| MICRO  | The third and usually final number referres to critical bugfix releases as "patch works" starting from number 1 instead of 0.  | 20.1.1 > 20.1.2 >> 20.2.13 |
 
 
 When making breaking changes, we may also introduce deprecation warnings through MICRO version first so that 
