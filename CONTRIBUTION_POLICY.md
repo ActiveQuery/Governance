@@ -65,7 +65,7 @@ ActiveQuery Compliance Team will review and make appriate checks in this reagrd 
 contribution. Adverse consequence may be in rejection or repeal of accepted submissions. Thus, 
 contributors must make due deligence checks before submiting contibutions, with dependencies included.
 
-#### 3.A. Open Software License v. 3.0 Compatiblity Chart
+### 3.A. Open Software License v. 3.0 Compatiblity Chart
 
 This is not an exhustive list, and may be subject to change without perior notice.
 
@@ -80,7 +80,7 @@ This is not an exhustive list, and may be subject to change without perior notic
 | ISC  | As such Public Domain is not acceptable |
 | Unlicensed |  |
 
-#### 3.B. Special Clauses
+### 3.B. Special Clauses
 Incase dependencies might specify additional license clauses, that would introduce restriction of use, 
 legal compliance must be verified before hand.
 
@@ -107,10 +107,12 @@ Abscence of which reaults in immediate of rejection.
 
 Further, details of DCO process are listed below.
 
-## 4. Calender Versioning (CalVer)
+## 5. Conventions
+
+### 5.A. Calender Versioning (CalVer)
 
 ActiveQuery follows [CalVer scheme of semantic versioning](https://calver.org) and has adopted 
-YYYY.MINOR.MICRO as  incremented version numbering format.
+**YY.MINOR.MICRO** as  incremented version numbering format.
 
 | CalVer Fromat  | Significance | Example |
 | ------------- | ------------- | ------------- |
@@ -118,9 +120,77 @@ YYYY.MINOR.MICRO as  incremented version numbering format.
 | MINOR  | The second number referres to critical functionality releases as "breaking changes" starting from number 1 instead of 0. | 20.1 > 20.2 >> 20.5 |
 | MICRO  | The third and usually final number referres to critical bugfix releases as "patch works" starting from number 1 instead of 0.  | 20.1.1 > 20.1.2 >> 20.2.13 |
 
-
 When making breaking changes, we may also introduce deprecation warnings through MICRO version first so that 
 users may learn about the upcoming changes and migrate their code base in advance. Change are documented in 
 the CHANGELOG file placed at the root of each repository.
 
-## Conventions
+### 5.B. Naming Logics 
+
+ActiveQuery has standarised below logic as naming conventions, and apply to all parts of ActiveQuery 
+Projects, Programmes, respositories and spaces.
+
+### 5.B.1 Branding
+
+ActiveQuery (synonymous with "Active Query" and wheresoever abbreviated as "ActiveQ" 
+or "AQ", whether upper cased, lower cased or capitalised) will always follow **Pascal Case**.
+However, this does not refute the probability where adoption is not possible e.g. in case of 
+web url(s) or otherwise, then **Kebab Case** be used as fallback.
+
+| Pascal Case | Kebab Case |
+| ------------- | ------------- |
+| /Governance  | /governance |
+| /ActiveQuery  | /active-query |
+| /active-query/ABRReaminUnchnaged/  | /active-query/ABR-reamin-unchnaged |
+
+### 5.B.2 File & Folder
+
+ActiveQuery follows **Pascal Case** for naming all files and folders.
+
+| File/Folder  | Pascal Case |
+| ------------- | ------------- |
+| some file  | SomeFile |
+| some folder  | SomeFolder |
+| some folder/some file  | SomeFolder/SomeFile |
+| ABBR remain unchanged  | ABBRRemainUnchanged |
+| ABBR folder/ABBR file  | ABBRFolder/ABBRFile |
+
+### 5.B.3 Legal Documentation 
+
+ActiveQuery follows **Screaming Snake Case** for naming all ledgal documentation files.
+
+| File | Screaming Snake Case |
+| ------------- | ------------- |
+| readme  | README |
+| ABBR  | ABBR |
+| some file  | SOME_FILE |
+
+### 5.B.4 JavaScript (JS)
+
+**5.B.4.i.** ActiveQuery follows **Dromedary Case** for naming all JS functions and Objects.
+
+| JS Functions/Objects | Dromedary Case |
+| ------------- | ------------- |
+| my  | my |
+| myfunction  | myFunction |
+| myobject  | myObject |
+| myobjectname  | myObjectName |
+
+**5.B.4.ii.** ActiveQuery follows **Pascal Case** for naming all JS Classes & Constants.
+
+| JS Classes/Constants | Pascal Case |
+| ------------- | ------------- |
+| my  | My |
+| myclass  | MyClass |
+| myconstantname  | MyConstantName |
+
+### 5.B.5 Cascadeing Style Sheet (CSS)
+
+ActiveQuery follows **Kebab Case** for naming all CSS Classes and Variables.
+
+| CSS Classes/Variables | Kebab Case |
+| ------------- | ------------- |
+| my  | my |
+| my class  | my-class |
+| my variable | --my-variable |
+
+
