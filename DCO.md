@@ -73,6 +73,7 @@ https://ActiveQuery.github.io/governance or  https://github.com/ActiveQuery/Gove
 
 This DCO is adapted from Developer Certificate of Origin, Version 1.1 available at http://developercertificate.org/
 
-[ActiveQuery Compliance Framework - Copyright © 2020 - Present Syed Kazmi][homepage]
+[ActiveQuery Compliance Framework - Copyright © 2018 - Present Syed Kazmi][homepage]
+
 [homepage]: https://github.com/ActiveQuery/Governance/
 
