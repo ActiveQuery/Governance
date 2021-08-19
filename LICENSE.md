@@ -4,7 +4,7 @@ ActiveQuery (synonymous with "Active Query" and wheresoever abbreviated as "Acti
 lower cased or capitalised), is Licensed under Terms & Conditions of Open Software License v. 3.0 applies to all 
 parts of this software, except where indicated. 
 
-OPEN SOFTWARE LICENSE v. 3.0 (OSL-3.0)
+## OPEN SOFTWARE LICENSE v. 3.0 (OSL-3.0)
 
 This Open Software License (the "License") applies to any original work of authorship (the "Original Work") 
 whose owner (the "Licensor") has placed the following licensing notice adjacent to the copyright notice for 
@@ -64,5 +64,6 @@ Licensed under the Open Software License version 3.0
 
 This License is adapted from The Open Software License 3.0 (OSL-3.0), available at https://opensource.org/licenses/OSL-3.0
 
-ActiveQuery Compliance Framework - Copyright © 2018 - Present Syed Kazmi
-  
+[ActiveQuery Compliance Framework - Copyright © 2018 - Present Syed Kazmi][homepage]
+
+[homepage]: https://github.com/ActiveQuery/Governance/  
