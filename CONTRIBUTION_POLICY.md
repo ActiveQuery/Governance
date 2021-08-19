@@ -56,13 +56,13 @@ involved, it is recommended that you read full text before proceeding.
 
 ## 3. Calender Versioning (CalVer)
 ActiveQuery follows [CalVer scheme of semantic versioning](https://calver.org) and has adopted 
-YY.MINOR.MICRO as  incremented version numbering format.
+YYYY.MINOR.MICRO as  incremented version numbering format.
 
 | CalVer Fromat  | Significance | Example |
 | ------------- | ------------- | ------------- |
-| YY  | Contarary to SemVer which uses arbitery numbering starting from 0 and incrimenting as 1,2,3 etc CalVer always uses year of release as first number for major segment numbering. | If release year is 2020 then YY indicates 20 |
-| MINOR  | The second number referres to critical functionality releases as "breaking changes" starting from number 1 instead of 0. | 20.1 > 20.2 >> 20.5 |
-| MICRO  | The third and usually final number referres to critical bugfix releases as "patch works" starting from number 1 instead of 0.  | 20.1.1 > 20.1.2 >> 20.1.13 |
+| YYYY  | Contarary to SemVer which uses arbitery numbering starting from 0 and incrimenting as 1,2,3 etc CalVer always uses year of release as first number for major segment numbering. | If release year is 2020 then YY indicates 2020 |
+| MINOR  | The second number referres to critical functionality releases as "breaking changes" starting from number 1 instead of 0. | 2020.1 > 2020.2 >> 2020.5 |
+| MICRO  | The third and usually final number referres to critical bugfix releases as "patch works" starting from number 1 instead of 0.  | 2020.1.1 > 2020.1.2 >> 2020.1.13 |
 
 
 When making breaking changes, we may also introduce deprecation warnings in a MICRO version first so that our users learn about the upcoming changes and migrate their code in advance.
