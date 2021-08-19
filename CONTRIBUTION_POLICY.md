@@ -35,33 +35,6 @@ willing to put in the time and effort to help us and our community of users.
 
 This document will help answer common questions that you may have.
 
-## Open Source Software License (OSSL)
-
-ActiveQuery is Open Source Software (OSS) by intent, and has adopted Terms & Conditions 
-of [Open Software License v. 3.0](LICENSE.md), and applies to all parts of this software, 
-except where indicated. Needless to say all dependencies included and distributed with 
-ActiveQuery must be compatible with this license.
-
-#### Open Software License v. 3.0 Compatiblity Chart
-
-This is not an exhustive list, and may be subject to change without perior notice.
-
-| Software | Artwork | 
-| ------------- | ------------- |
-| AFL  | Art Libre |
-| Apache  | Artistic |
-| BSD  | CC-0 |
-| CC-O  | CC-BY |
-| EPL  | CC-BY-SA |
-| EUPL  | Unlicensed |
-| ISC  | As such Public Domain is not acceptable |
-| Unlicensed |  |
-
-ActiveQuery Compliance Team will review and make appriate checks in this reagrd before accepting any 
-contributions. Adverse consequence may be in rejection or repeal of submission. Thus contributors are 
-must make due deligence run through License Compatiblity, before submiting contibutions, with 
-dependencies included. 
-
 ## Code of Conduct
 
 ActiveQuery has incorporated the Contributor Covenant as its [Code of Conduct Policy](CODE_OF_CONDUCT_POLICY.md) and 
@@ -93,5 +66,31 @@ YY.MINOR.MICRO as  incremented version numbering format.
 
 
 When making breaking changes, we may also introduce deprecation warnings in a MICRO version first so that our users learn about the upcoming changes and migrate their code in advance.
+
+## Open Source Software License (OSSL)
+
+ActiveQuery is Open Source Software (OSS) by intent, and has adopted Terms & Conditions 
+of [Open Software License v. 3.0](LICENSE.md), and applies to all parts of this software, 
+except where indicated. Needless to say all dependencies included and distributed with 
+ActiveQuery must be compatible with this license.
+
+#### Open Software License v. 3.0 Compatiblity Chart
+
+This is not an exhustive list, and may be subject to change without perior notice.
+
+| Software | Artwork | 
+| ------------- | ------------- |
+| AFL  | Art Libre |
+| Apache  | Artistic |
+| BSD  | CC-0 |
+| CC-O  | CC-BY |
+| EPL  | CC-BY-SA |
+| EUPL  | Unlicensed |
+| ISC  | As such Public Domain is not acceptable |
+| Unlicensed |  |
+
+ActiveQuery Compliance Team will review and make appriate checks in this reagrd before accepting any 
+contribution. Adverse consequence may be in rejection or repeal of accepted submissions. Thus, 
+contributors must make due deligence checks before submiting contibutions, with dependencies included. 
 
 ## Conventions
