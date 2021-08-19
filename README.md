@@ -26,6 +26,7 @@
 
 ActiveQuery (synonymous with "Active Query" and wheresoever abbreviated as "ActiveQ" or "AQ", whether upper cased, 
 lower cased or capitalised) and applies to all parts of ActiveQuery projects, programmes, respositeries, and spaces. 
+
 In the interest of fostering an open and welcoming environment ActiveQuery Governance Framework has been adopted 
 in persuance of envisioning and enforcing policies, licenses, agreements and guidelines;
 
