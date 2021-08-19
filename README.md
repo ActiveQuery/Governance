@@ -40,8 +40,8 @@ are also available through web access at
 
 Further details of specific policies and their enforcement may be posted separately.
 
-[ESP]: https://github.com/ActiveQuery/Governance/blob/main/ETHICAL_SOURCE_POLICY.md
-[COCP]: https://github.com/ActiveQuery/Governance/blob/main/CODE_OF_CONDUCT_POLICY.md
+[ESP]: ETHICAL_SOURCE_POLICY.md
+[COCP]: CODE_OF_CONDUCT_POLICY.md
 
 
 ActiveQuery Compliance Framework - Copyright © 2020 - Present Syed Kazmi
