@@ -85,7 +85,8 @@ Examples of representing a ActiveQuery or community include to using an official
 ActiveQuery e-mail address, posting via an official social media account, or acting
 as an appointed representative at an online or offline event. 
 
-ActiveQuery Governance Body may issue from time to time as it may deem fit, definitions and further clarification of Representation.
+ActiveQuery Compliance Body may issue from time to time as it may deem fit, definitions and 
+further clarification of Representation.
 
 ## Enforcement
 
@@ -112,7 +113,7 @@ Further details of specific enforcement policies may be posted separately.
 This Code of Conduct Policy is adapted from the [Contributor Covenant][COC], 
 version 1.4, available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
 
-[ActiveQuery Compliance Framework - Copyright © 2020 - Present Syed Kazmi][homepage]
+[ActiveQuery Compliance Framework - Copyright © 2018 - Present Syed Kazmi][homepage]
 
 [COC]: https://www.contributor-covenant.org
 [homepage]: https://github.com/ActiveQuery/Governance/
