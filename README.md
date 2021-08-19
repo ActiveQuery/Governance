@@ -31,7 +31,7 @@ In the interest of fostering an open and welcoming environment ActiveQuery Gover
 in persuance of envisioning and enforcing policies, licenses, agreements and guidelines;
 
 * [Open Source License][LI]
-* 
+
 * [Ethical Source Policy][ESP]
 
 * [Code of Conduct Policy][COCP]
