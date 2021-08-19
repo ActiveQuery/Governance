@@ -1,4 +1,4 @@
-# ActiveQuery Code of Conduct
+# ActiveQuery Code of Conduct v21.0
 
 [![](https://gpvc.arturio.dev/ActiveQ)](#)
 [![](https://img.shields.io/badge/Coverage-100%25-brightgreen)](#)
