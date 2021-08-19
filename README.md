@@ -1,4 +1,4 @@
-# Active Query Compliance Framework v21.0
+# ActiveQuery Compliance Framework v21.0
 
 [![](https://gpvc.arturio.dev/ActiveQ)](#)
 [![](https://img.shields.io/badge/Coverage-100%25-brightgreen)](#)
