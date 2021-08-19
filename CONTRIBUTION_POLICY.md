@@ -39,7 +39,28 @@ This document will help answer common questions that you may have.
 
 ActiveQuery is Open Source Software (OSS) by intent, and has adopted Terms & Conditions 
 of [Open Software License v. 3.0](LICENSE.md), and applies to all parts of this software, 
-except where indicated.
+except where indicated. Needless to say all dependencies included and distributed with 
+ActiveQuery must be compatible with this license.
+
+#### Open Software License v. 3.0 Compatiblity Chart
+
+This is not an exhustive list, and may be subject to change without perior notice.
+
+| Software | Artwork | 
+| ------------- | ------------- |
+| AFL  | Art Libre |
+| Apache  | Artistic |
+| BSD  | CC-0 |
+| CC-O  | CC-BY |
+| EPL  | CC-BY-SA |
+| EUPL  | Unlicensed |
+| ISC  | As such Public Domain is not acceptable |
+| Unlicensed |  |
+
+ActiveQuery Compliance Team will review and make appriate checks in this reagrd before accepting any 
+contributions. Adverse consequence may be in rejection or repeal of submission. Thus contributors are 
+must make due deligence run through License Compatiblity, before submiting contibutions, with 
+dependencies included. 
 
 ## Code of Conduct
 
@@ -47,7 +68,6 @@ ActiveQuery has incorporated the Contributor Covenant as its [Code of Conduct Po
 we expect all participants to strictly adhere to it. In order to grasp wider understanding 
 as to what actions will and will  not be tolerated, it is recommended that read full text 
 before proceeding.
-
 
 ## Open Development
 
