@@ -1,6 +1,4 @@
-# ActiveQuery  License
-
-Copyright © 2018 - Present Syed Kazmi
+# Copyright © 2018 - Present Syed Kazmi
 
 ActiveQuery (synonymous with "Active Query" and wheresoever abbreviated as "ActiveQ" or "AQ", whether upper cased, 
 lower cased or capitalised), is Licensed under Terms & Conditions of Open Software License v. 3.0 applies to all 
