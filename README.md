@@ -1,5 +1,11 @@
 # Active Query Compliance Framework v21.0
 
+[![](https://gpvc.arturio.dev/ActiveQ)](#)
+[![](https://img.shields.io/badge/Coverage-100%25-brightgreen)](#)
+[![](https://img.shields.io/badge/Open%20Source%20License-OSL%203.0-brightgreen)](#)
+[![](https://img.shields.io/badge/ActiveQuery%20Complance%Framework-v21.0-brightgreen)](#)
+
+
 [![](https://img.shields.io/badge/Ethical%20Source%20Policy-1F618D)](#)
 [![](https://img.shields.io/badge/Contributors%20Covenant-1F618D)](#)
 [![](https://img.shields.io/badge/Open%20Source%20Software%20Covenant-1F618D)](#)
@@ -7,13 +13,7 @@
 [![](https://img.shields.io/badge/Ethical%20Community%Inclusion-1F618D)](#)
 [![](https://img.shields.io/badge/Ethical%20Accessibility-1F618D)](#)
 [![](https://img.shields.io/badge/Ethical%20Privacy-1F618D)](#)
-[![](https://img.shields.io/badge/Ethical%20Compensation-brightgreen)](#)
-
-[![](https://gpvc.arturio.dev/ActiveQ)](#)
-[![](https://img.shields.io/badge/Coverage-100%25-brightgreen)](#)
-[![](https://img.shields.io/badge/Open%20Source%20License-OSL%203.0-brightgreen)](#)
-[![](https://img.shields.io/badge/ActiveQuery%20Complance%Framework-v21.0-brightgreen)](#)
-
+[![](https://img.shields.io/badge/Ethical%20Compensation-1F618D)](#)
 
 
 [![](https://img.shields.io/badge/ActiveQuery%20Cascading%20Style%20Sheets%20(AQCSS)™-76448A)](#)
