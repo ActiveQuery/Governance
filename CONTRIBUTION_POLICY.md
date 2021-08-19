@@ -35,14 +35,14 @@ willing to put in the time and effort to help us and our community of users.
 
 This document will help answer common questions that you may have.
 
-## Code of Conduct
+## 1. Code of Conduct
 
 ActiveQuery has incorporated the Contributor Covenant as its [Code of Conduct Policy](CODE_OF_CONDUCT_POLICY.md) and 
 we expect all participants to strictly adhere to it. In order to grasp wider understanding 
 as to what actions will and will  not be tolerated, it is recommended that read full text 
 before proceeding.
 
-## Open Development
+## 2. Open Development
 
 In the spirit of Open Source Software Development (OSSD) To maintain seamless collaboration 
 without compromising the integrity, all of our work happens and directly goes on to Open Core 
@@ -54,7 +54,7 @@ ActiveQuery has incorporated [Ethical Source Princpels](ETHICAL_SOURCE_POLICY.md
 expect all participants  to adhere to them. In order to grasp wider understanding as to what is 
 involved, it is recommended that you read full text before proceeding.
 
-## Calender Versioning (CalVer)
+## 3. Calender Versioning (CalVer)
 ActiveQuery follows [CalVer scheme of semantic versioning](https://calver.org) and has adopted 
 YY.MINOR.MICRO as  incremented version numbering format.
 
@@ -67,14 +67,18 @@ YY.MINOR.MICRO as  incremented version numbering format.
 
 When making breaking changes, we may also introduce deprecation warnings in a MICRO version first so that our users learn about the upcoming changes and migrate their code in advance.
 
-## Open Source Software License (OSSL)
+## 4. Open Source Software License (OSSL)
 
 ActiveQuery is Open Source Software (OSS) by intent, and has adopted Terms & Conditions 
 of [Open Software License v. 3.0](LICENSE.md), and applies to all parts of this software, 
 except where indicated. Needless to say all dependencies included and distributed with 
 ActiveQuery must be compatible with this license.
 
-#### Open Software License v. 3.0 Compatiblity Chart
+ActiveQuery Compliance Team will review and make appriate checks in this reagrd before accepting any 
+contribution. Adverse consequence may be in rejection or repeal of accepted submissions. Thus, 
+contributors must make due deligence checks before submiting contibutions, with dependencies included.
+
+#### 4.A. Open Software License v. 3.0 Compatiblity Chart
 
 This is not an exhustive list, and may be subject to change without perior notice.
 
@@ -89,8 +93,8 @@ This is not an exhustive list, and may be subject to change without perior notic
 | ISC  | As such Public Domain is not acceptable |
 | Unlicensed |  |
 
-ActiveQuery Compliance Team will review and make appriate checks in this reagrd before accepting any 
-contribution. Adverse consequence may be in rejection or repeal of accepted submissions. Thus, 
-contributors must make due deligence checks before submiting contibutions, with dependencies included. 
+#### 4.B. Special Clauses
+Incase dependencies might specify additional license clauses, that would introduce restriction of use, 
+legal compliance must be verified before hand.
 
 ## Conventions
