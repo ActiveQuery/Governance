@@ -1,6 +1,6 @@
 # Copyright © 2018 - Present Syed Kazmi
 
-ActiveQuery (synonymous with "Active Query" and wheresoever abbreviated as "ActiveQ" or "AQ", whether upper cased, 
+ActiveQuery (synonymous with and wheresoever referred to as "Active Query" or "ActiveQ" or "AQ", whether upper cased, 
 lower cased or capitalised), is Licensed under Terms & Conditions of Open Software License v. 3.0 applies to all 
 parts of this software, except where indicated. 
 
