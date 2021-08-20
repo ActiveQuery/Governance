@@ -1,4 +1,4 @@
-# ActiveQuery Code of Conduct v21.0
+# ActiveQuery Code of Conduct v21.1
 
 [![](https://gpvc.arturio.dev/ActiveQ)](#)
 [![](https://img.shields.io/badge/Coverage-100%25-brightgreen)](#)
@@ -85,7 +85,7 @@ Examples of representing a ActiveQuery or community include to using an official
 ActiveQuery e-mail address, posting via an official social media account, or acting
 as an appointed representative at an online or offline event. 
 
-ActiveQuery Compliance Body may issue from time to time as it may deem fit, definitions and 
+ActiveQuery through Compliance Framework may issue from time to time as it may deem fit, definitions and 
 further clarification of Representation.
 
 ## Enforcement
