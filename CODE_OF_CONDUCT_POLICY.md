@@ -28,8 +28,8 @@
 
 
 
-ActiveQuery (synonymous with "Active Query" and wheresoever abbreviated as "ActiveQ" or "AQ", 
-whether upper cased, lower cased or capitalised) in the interest of fostering 
+ActiveQuery (synonymous with and wheresoever referred to as "Active Query" or "ActiveQ" 
+or "AQ", whether upper cased, lower cased or capitalised) in the interest of fostering 
 an open and welcoming environment, as contributors and maintainers of ActiveQuery 
 pledge to make participation in all parts of ActiveQuery projects, programmes, respositeries,
 spaces, and our community a harassment-free experience for everyone, regardless of age, body
