@@ -1,4 +1,4 @@
-# ActiveQuery Contribution Policy
+# ActiveQuery Contribution Policy v21.1
 
 [![](https://gpvc.arturio.dev/ActiveQ)](#)
 [![](https://img.shields.io/badge/Coverage-100%25-brightgreen)](#)
@@ -24,9 +24,9 @@
 [![](https://img.shields.io/badge/ActiveQuery%20Keep%20It%20Simple%20Smart%20(AQKISS)™-76448A)](#)
 [![](https://img.shields.io/badge/ActiveQuery%20Open%20Source%20Software%20(AQOSS)-76448A)](#)
 
-ActiveQuery (synonymous with "Active Query" and wheresoever abbreviated as "ActiveQ" 
-or "AQ", whether upper cased, lower cased or capitalised) and applies to all parts of 
-ActiveQuery projects, programmes, respositeries, and spaces. 
+ActiveQuery (synonymous with and wheresoever referred to as "Active Query" or "ActiveQ" or "AQ", 
+whether upper cased, lower cased or capitalised) and applies to all parts of ActiveQuery projects, 
+programmes, respositories, and spaces. 
 
 ActiveQuery is group open source projects that are under very active development. 
 There's always more to be done and We are always working on making contributing to 
