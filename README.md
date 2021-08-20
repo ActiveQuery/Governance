@@ -24,8 +24,9 @@
 [![](https://img.shields.io/badge/ActiveQuery%20Keep%20It%20Simple%20Smart%20(AQKISS)™-76448A)](#)
 [![](https://img.shields.io/badge/ActiveQuery%20Open%20Source%20Software%20(AQOSS)-76448A)](#)
 
-ActiveQuery (synonymous with "Active Query" and wheresoever abbreviated as "ActiveQ" or "AQ", whether upper cased, 
-lower cased or capitalised) and applies to all parts of ActiveQuery projects, programmes, respositeries, and spaces. 
+ActiveQuery (synonymous with and wheresoever referred to as "Active Query" or "ActiveQ" or "AQ", whether 
+upper cased, lower cased or capitalised) and applies to all parts of ActiveQuery projects, programmes, 
+respositeries, and spaces. 
 
 In the interest of fostering an open and welcoming environment ActiveQuery Governance Framework has been adopted 
 in persuance of envisioning and enforcing policies, licenses, agreements and guidelines;
