@@ -29,13 +29,27 @@
 
 
 ActiveQuery (synonymous with and wheresoever referred to as "Active Query" or "ActiveQ" 
-or "AQ", whether upper cased, lower cased or capitalised) in the interest of fostering 
-an open and welcoming environment, as contributors and maintainers of ActiveQuery 
-pledge to make participation in all parts of ActiveQuery projects, programmes, respositeries,
-spaces, and our community a harassment-free experience for everyone, regardless of age, body
-size, disability, ethnicity, sex characteristics, gender identity and expression,
-level of experience, education, socio-economic status, nationality, personal
-appearance, race, religion, or sexual identity and orientation.
+or "AQ", whether upper cased, lower cased or capitalised) strives to foster an open and 
+welcoming environmentin for everyone.
+
+We as contributors and maintainers of ActiveQuery pledge to make participation in all parts of 
+ActiveQuery projects, programmes, respositeries, spaces, inclusive and our community a harassment-free 
+experience for everyone, regardless of their;
+
+* age, 
+* body size, 
+* disability, 
+* ethnicity,
+* race, 
+* religion, 
+* sex characteristics,
+* sexual identity and orientation 
+* gender identity and expression,
+* level of experience, 
+* education, 
+* socio-economic status, 
+* nationality, or 
+* personal appearance.
 
 ## Our Standards
 
