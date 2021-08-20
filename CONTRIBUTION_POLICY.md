@@ -26,10 +26,10 @@
 
 ActiveQuery (synonymous with and wheresoever referred to as "Active Query" or "ActiveQ" or "AQ", 
 whether upper cased, lower cased or capitalised) and applies to all parts of ActiveQuery projects, 
-programmes, respositories, and spaces. 
+programmes, repositories, and spaces. 
 
 ActiveQuery is group open source projects that are under very active development. 
-There's always more to be done and We are always working on making contributing to 
+There's always more to be done and we are always working on making contributing to 
 projects as easy, inclusive and transparent as possible. ActiveQuery welcomes anyone 
 willing to put in the time and effort to help us and our community of users.
 
@@ -46,11 +46,12 @@ before proceeding.
 
 In the spirit of Open Source Software Development (OSSD) To maintain seamless collaboration 
 without compromising the integrity, all of our work happens and directly goes on to Open Core 
-DevOps platforms such as GitHub or GitLab. However this enevtiably brings practical, political, 
-economic and ethical ramifications challanges for software development and software use in 
-modren era. 
+DevOps platforms such as GitHub or GitLab. 
 
-ActiveQuery has incorporated [Ethical Source Princpels](ETHICAL_SOURCE_POLICY.md) and 
+However this inevitably brings practical, political, economic and ethical ramifications 
+challenges for software development and software use in modern era. 
+
+ActiveQuery has incorporated [Ethical Source Principles](ETHICAL_SOURCE_POLICY.md) and 
 expect all participants  to adhere to them. In order to grasp wider understanding as to what is 
 involved, it is recommended that you read full text before proceeding.
 
@@ -61,13 +62,13 @@ of [Open Software License v. 3.0 (OSL-3.0)](LICENSE.md), except where indicated.
 Needless to say all dependencies included and distributed with ActiveQuery must be 
 compatible with this license.
 
-ActiveQuery Compliance Team will review and make appriate checks in this reagrd before accepting any 
+ActiveQuery Compliance framework runs close review and makes appropriate checks in this regard before accepting any 
 contribution. Adverse consequence may be in rejection or repeal of accepted submissions. Thus, 
-contributors must make due deligence checks before submiting contibutions, with dependencies included.
+contributors must make due diligence checks before submitting contributions, with dependencies included.
 
-### 3.A. Open Software License v. 3.0 Compatiblity Chart
+### 3.A. Open Software License v. 3.0 Compatibility Chart
 
-This is not an exhustive list, and may be subject to change without perior notice.
+This is not an exhaustive list, and may be subject to change without prior notice.
 
 | Software | Artwork | 
 | ------------- | ------------- |
@@ -81,7 +82,7 @@ This is not an exhustive list, and may be subject to change without perior notic
 | Unlicensed |  |
 
 ### 3.B. Special Clauses
-Incase dependencies might specify additional license clauses, that would introduce restriction of use, 
+In case dependencies might specify additional license clauses, that would introduce restriction of use, 
 legal compliance must be verified before hand.
 
 ## 4. Developer Certification of Origin (DCO)
@@ -90,35 +91,35 @@ ActiveQuery has adopted OSL-3.0 license to strike a balance between open contrib
 to use the software however you would like to. Licensing is very important to open source projects, it tells 
 you what rights you have and what rights copyright holder is providing. 
 
-Nevertheless, spending time, effort and creativity to develope software that solves real world problems is one thing, 
-but delivering that solution to masses is quite nother. Spanner in works comes when you need a law degree to do that. 
+Nevertheless, spending time, effort and creativity to develop software that solves real world problems is one thing, 
+but delivering that solution to masses is quite another. One should not need a law degree to do that. 
 
-Instead of requiring to sing sophisticated Contributor License Agreement (CLA) or Corporate Contributor License Agreement 
+Instead of requiring to sign sophisticated Contributor License Agreement (CLA) or Corporate Contributor License Agreement 
 (CCLA), ActiveQuery has adopted simpler [Developer Certificate of Origin (DCO)](DCO.md) Process introduced by the 
 Linux Foundation as a [Contract by Conduct](https://www.upcounsel.com/acceptance-by-conduct-contract-law) 
 provision.  
 
-The DCO it self is an attestation attached to every contribution made by every developer. Whereby, the developer
+The DCO in itself is an attestation attached to every contribution made by every developer. Whereby, the developer
 intending to contribute simply adds a Signed-off-by statement in the commit message, regardless of channel of 
 communication involved, and thereby through this very action agrees to the DCO. 
 
 ActiveQuery Compliance Team closely reviews the Signed-off-by statement on each contribution and commit message. 
-Abscence of which reaults in immediate of rejection. 
+Absence of which results in immediate of rejection. 
 
 Further, details of DCO process are listed below.
 
 ## 5. Conventions
 
-### 5.A. Calender Versioning (CalVer)
+### 5.A. Calendar Versioning (CalVer)
 
 ActiveQuery follows [CalVer scheme of semantic versioning](https://calver.org) and has adopted 
-**YY.MINOR.MICRO** as  incremented version numbering format.
+**YY.MINOR.MICRO** as incremented version numbering format.
 
-| CalVer Fromat  | Significance | Example |
+| CalVer Format  | Significance | Example |
 | ------------- | ------------- | ------------- |
-| YY  | Contarary to SemVer which uses arbitery numbering starting from 0 and incrimenting as 1,2,3 etc CalVer always uses year of release as first number for major segment numbering. | If release year is 2020 then YY indicates 20 |
-| MINOR  | The second number referres to critical functionality releases as "breaking changes" starting from number 1 instead of 0. | 20.1 > 20.2 >> 20.5 |
-| MICRO  | The third and usually final number referres to critical bugfix releases as "patch works".  | 20.1.0 > 20.1.1 >> 20.2.13 |
+| YY  | Contrary to SemVer which uses arbitrary numbering starting from 0 and incrementing as 1,2,3 etc CalVer always uses year of release as first number for major segment numbering. | If release year is 2020 then YY indicates 20 |
+| MINOR  | The second number refers to critical functionality releases as "breaking changes" starting from number 1 instead of 0. | 20.1 > 20.2 >> 20.5 |
+| MICRO  | The third and usually final number refers to critical bugfix releases as "patch works".  | 20.1.0 > 20.1.1 >> 20.2.13 |
 
 When making breaking changes, we may also introduce deprecation warnings through MICRO version first so that 
 users may learn about the upcoming changes and migrate their code base in advance. Change are documented in 
@@ -126,13 +127,13 @@ the CHANGELOG file placed at the root of each repository.
 
 ### 5.B. Naming Standards
 
-ActiveQuery has standarised namig logic and apply to all parts of ActiveQuery projects, Programmes, respositories 
+ActiveQuery has standardised naming logic and apply to all parts of ActiveQuery projects, Programmes, repositories 
 and spaces. 
 
-ActiveQuery Compliance Team strictly enforces these naming stadards, and adopting naming standards 
+ActiveQuery Compliance Team strictly enforces these naming standards, and adopting naming standards 
 other than as stated against each sub-section of section 5.B is not acceptable. 
 
-Consequent may cause rejection of commit or repeal of previous submited contributions. 
+Consequent may cause rejection of commit or repeal of previous submitted contributions. 
 
 ### 5.B.1 Branding
 
@@ -192,7 +193,7 @@ ActiveQuery follows **Screaming Snake Case** for naming all ledgal documentation
 | myclass  | MyClass |
 | myconstantname  | MyConstantName |
 
-### 5.B.5 Cascadeing Style Sheet (CSS)
+### 5.B.5 Cascading Style Sheet (CSS)
 
 ActiveQuery follows **Kebab Case** for naming all CSS Classes and Variables.
 
