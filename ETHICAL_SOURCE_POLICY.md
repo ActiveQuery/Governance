@@ -28,9 +28,10 @@
 
 
 ## Our Pledge
-ActiveQuery (synonymous with "Active Query" and wheresoever abbreviated as "ActiveQ" or "AQ", whether upper cased, lower cased or 
-capitalised) meassures success through impact rather than intentions. ActiveQuery Ethical Source Policy is informed by below seven 
-principle points and applies to all parts of ActiveQuery  projects, programmes, respositeries and spaces. 
+ActiveQuery (synonymous with and wheresoever referred to as "Active Query" or "ActiveQ" or "AQ", whether 
+upper cased, lower cased or capitalised) meassures success through impact rather than intentions. 
+ActiveQuery Ethical Source Policy is informed by below seven principle points and applies to all parts of 
+ActiveQuery  projects, programmes, respositeries and spaces. 
 
 ### 1. Our work benefits the commons.
 We grant permission to modify, create derivative works, use and reuse it, in the
