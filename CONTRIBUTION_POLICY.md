@@ -118,7 +118,7 @@ ActiveQuery follows [CalVer scheme of semantic versioning](https://calver.org) a
 | ------------- | ------------- | ------------- |
 | YY  | Contarary to SemVer which uses arbitery numbering starting from 0 and incrimenting as 1,2,3 etc CalVer always uses year of release as first number for major segment numbering. | If release year is 2020 then YY indicates 20 |
 | MINOR  | The second number referres to critical functionality releases as "breaking changes" starting from number 1 instead of 0. | 20.1 > 20.2 >> 20.5 |
-| MICRO  | The third and usually final number referres to critical bugfix releases as "patch works" starting from number 1 instead of 0.  | 20.1.1 > 20.1.2 >> 20.2.13 |
+| MICRO  | The third and usually final number referres to critical bugfix releases as "patch works".  | 20.1.0 > 20.1.1 >> 20.2.13 |
 
 When making breaking changes, we may also introduce deprecation warnings through MICRO version first so that 
 users may learn about the upcoming changes and migrate their code base in advance. Change are documented in 
