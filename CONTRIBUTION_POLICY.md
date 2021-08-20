@@ -203,5 +203,70 @@ ActiveQuery follows **Kebab Case** for naming all CSS Classes and Variables.
 | my class  | my-class |
 | my variable | --my-variable |
 
+### 5.C. Directory Structure
 
+```
+root/
+├── CODE_OF_CONDUCT_POLICY
+├── CONTRIBUTION_POLICY
+├── ETHICAL_POLICY
+├── DCO
+├── CHANGE_LOG
+├── LICENSE
+└── README.md
+```
 
+```
+root/
+├── CODE_OF_CONDUCT_POLICY
+├── CONTRIBUTION_POLICY
+├── ETHICAL_POLICY
+├── DCO
+├── CHANGE_LOG
+├── LICENSE
+├── README.md
+├── FrameworkEntryFile
+└── AQStream
+   │   └── Quarks
+   │        ├── CoreComponentA
+   │        │     └── Files/Folders
+   │        ├── CoreComponentB
+   │        │     └── Files/Folders
+   │        └── CoreComponentGroup
+   │              ├── SubCatagoryA
+   │              │     └── Files/Folders
+   │              └── SubCatagoryB
+   │                    └── Files/Folders
+   └── Lepton
+       ├── CorePluginA
+       │    └── Files/Folders
+       ├── CorePluginGroup
+       │      ├── SubCatagoryA
+       │      │     └── Files/Folders
+       │      └── SubCatagoryB
+       │            └── Files/Folders
+       └── CorePluginB
+            └── Files/Folders
+
+```
+```
+marketplace/
+├── CODE_OF_CONDUCT_POLICY
+├── CONTRIBUTION_POLICY
+├── ETHICAL_POLICY
+├── DCO
+├── CHANGE_LOG
+├── LICENSE
+├── README.md
+├── FrameworkEntryFile
+├── CustomPluginA
+│    └── Files/Folders
+├── CustomPluginGroup
+│      ├── SubCatagoryA
+│      │     └── Files/Folders
+│      └── SubCatagoryB
+│            └── Files/Folders
+└── CustomPluginB
+       └── Files/Folders
+
+```
