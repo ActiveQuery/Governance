@@ -1,4 +1,4 @@
-# Developer Certificate of Origin (DCO) v1.1
+# ActiveQuery Developer Certificate of Origin (DCO) v21.1
 
 [![](https://gpvc.arturio.dev/ActiveQ)](#)
 [![](https://img.shields.io/badge/Coverage-100%25-brightgreen)](#)
