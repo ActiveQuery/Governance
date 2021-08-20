@@ -30,7 +30,7 @@
 
 ActiveQuery (synonymous with and wheresoever referred to as "Active Query" or "ActiveQ" 
 or "AQ", whether upper cased, lower cased or capitalised) strives to foster an open and 
-welcoming environmentin for everyone.
+welcoming positive environment for everyone.
 
 We as contributors and maintainers of ActiveQuery pledge to make participation in all parts of 
 ActiveQuery projects, programmes, respositeries, spaces, inclusive and our community a harassment-free 
