@@ -64,6 +64,8 @@ When making breaking changes, we may also introduce deprecation warnings through
 users may learn about the upcoming changes and migrate their code base in advance. Change are documented in 
 the CHANGELOG file placed at the root of each repository.
 
+### Specimen
+
 |  Example  |  Action  |  Why  |
 | ------------- | ------------- | ------------- |
 | 20  | Ineffective | Use of YY on its own is meanginless. |
@@ -110,19 +112,21 @@ ActiveQuery follows **Pascal Case** for naming all files and folders.
 | ABBR remain unchanged  | ABBRRemainUnchanged |
 | ABBR folder/ABBR file  | ABBRFolder/ABBRFile |
 
+### Specimen
+
 | Example  | Action | Why |
 | ------------- | ------------- | ------------- |
 | PascalCase  | Effective | Conforms to prefered convention and will be consistent throughout.|
 | lisp-case  | Reflect | Genrally safe for URLs but in some cases may require path encoding. |
 | snake_case  | Reflect | Genrally safe for filesystem but is an obsolete URL trend and in some cases may require path encoding. |
-| flat case  | Ineffective | Error prone |
-| UPPER FLAT CASE  | Ineffective | Error prone |
-| dot.case  | Ineffective | Error Prone, rarely supported in by filesystem or URL parsers and always avoided.|
-| SCREAMING_SNAKE_CASE  | Ineffective | Reserved format for naming core legal/information documents. Error prone, harder for general public to follow, obsolete trend. |
-| dromedaryCase  | Ineffective | Error prone, harder for general public to follow, almost nevre used.  |
-| camel_Snake_Case  | Ineffective | Error prone, harder for general public to follow, almost nevre used. |
-| SCREAMING-LISP-CASE  | Ineffective | Error prone, harder for general public to follow, obsolete trend. |
-| Train-Case  | Ineffective | Error prone, harder for general public to follow, almost nevre used. |
+| flat case  | Ineffective | Error prone. |
+| UPPER FLAT CASE  | Ineffective | Error prone. |
+| dot.case  | Ineffective | Error Prone,  always avoided and rarely supported in by filesystem or URL parsers.|
+| SCREAMING_SNAKE_CASE  | Ineffective | Reserved format for naming core legal/information documents. Error prone, obsolete trend and harder for general public to follow. |
+| dromedaryCase  | Ineffective | Error prone, almost nevre adopted and harder for general public to follow.  |
+| camel_Snake_Case  | Ineffective | Error prone, almost nevre adopted and harder for general public to follow. |
+| SCREAMING-LISP-CASE  | Ineffective | Error prone, obsolete trend and harder for general public to follow. |
+| Train-Case  | Ineffective |Error prone, almost nevre adopted and harder for general public to follow. |
 
 ### 2.C. Legal Documentation 
 
