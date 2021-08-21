@@ -94,7 +94,7 @@ the CHANGELOG file placed at the root of each repository.
 | 20  | Ineffective | Use of YY on its own is meanginless. |
 | 20.0  | Ineffective | MINOR must start from 1. |
 | 20.1  | Reflect | Though it may seem reasonable to omit MICRO if its value is zero. It is not consistent with the adopted convention, having 20.1 (YY.MINOR) followed by 20.1.1 (YY.MINOR.MICRO) may be confusing and would certainly give rise to version parsing issues going forward. |
-| -dito-|-dito- |If the case be that updates are of extremly low frequency or carry significant impact with other than obvious updates have little or no micro updates e.g. legal/information doucmentation then YY.MINOR may be considered post reflection. |
+| -dito-|-dito- |If the case be that updates are of extremly low frequency or carry significant impact with other than obvious/cosmatic changes have little or no micro updates e.g. legal/information doucmentation then YY.MINOR may be considered post reflection. |
 | 20.1.0  | Effective | Adhers to adopted YY.MINOR.MICRO convention. |
 
 ## 4. Naming Standards
@@ -135,9 +135,9 @@ ActiveQuery follows **Pascal Case** for naming all files and folders.
 | SCREAMING-LISP-CASE  | Ineffective | Error prone, obsolete trend and harder for general public to follow. |
 | Train-Case  | Ineffective |Error prone, almost nevre adopted and harder for general public to follow. |
 
-### 4.B. Legal Documentation 
+### 4.B. Legal & Information Documentation 
 
-ActiveQuery follows **Screaming Snake Case** for naming all ledgal documentation files.
+ActiveQuery follows **Screaming Snake Case** for naming all ledgal and information realted documentation files.
 
 | File | Screaming Snake Case |
 | ------------- | ------------- |
