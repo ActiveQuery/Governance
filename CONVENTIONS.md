@@ -90,7 +90,8 @@ or "AQ", whether upper cased, lower cased or capitalised) branding will always f
 **Pascal Case**. 
 
 However, this does not refute the probability where adoption is not possible e.g. in case of web url(s)
-or otherwise, then **Lisp Case** will be adopted as fall back.
+or otherwise, then **Lisp Case** will be adopted as effective fall back as it safe format for both filesystem and URL.
+ All other case formats are considered ineffective.
 
 | Pascal Case | Kebab Case |
 | ------------- | ------------- |
