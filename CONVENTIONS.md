@@ -22,8 +22,8 @@
 [![](https://img.shields.io/badge/ActiveQuery%20Keep%20It%20Simple%20Smart%20(AQKISS)™-76448A)](#)
 [![](https://img.shields.io/badge/ActiveQuery%20Open%20Source%20Software%20(AQOSS)-76448A)](#)
 
-ActiveQuery (synonymous with and wheresoever referred to as "Active Query" or "ActiveQ" or "AQ", 
-whether upper cased, lower cased or capitalised) and applies to all parts of ActiveQuery projects, 
+"ActiveQuery" is synonymous with and wheresoever referred to as "Active Query" or "ActiveQ" or "AQ", 
+whether upper cased, lower cased or capitalised, and applies to all parts of ActiveQuery projects, 
 programmes, repositories, and spaces. 
 
 This guide presents preferred conventions but, most importantly describes as to why certain style 

@@ -1,8 +1,9 @@
 # Copyright © 2018 - Present Syed Kazmi
 
-ActiveQuery (synonymous with and wheresoever referred to as "Active Query" or "ActiveQ" or "AQ", whether upper cased, 
-lower cased or capitalised), is Licensed under Terms & Conditions of Open Software License v. 3.0 applies to all 
-parts of this software, except where indicated. 
+"ActiveQuery" is synonymous with and wheresoever referred to as "Active Query" or "ActiveQ" or "AQ", 
+whether upper cased, lower cased or capitalised, and applies to all parts of ActiveQuery projects, 
+programmes, repositories, and spaces. ActiveQuery Software is Licensed under the Terms & Conditions of 
+Open Software License v. 3.0 applies to all parts of this software, except where indicated. 
 
 ## OPEN SOFTWARE LICENSE v. 3.0 (OSL-3.0)
 

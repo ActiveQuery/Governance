@@ -24,9 +24,12 @@
 [![](https://img.shields.io/badge/ActiveQuery%20Keep%20It%20Simple%20Smart%20(AQKISS)™-76448A)](#)
 [![](https://img.shields.io/badge/ActiveQuery%20Open%20Source%20Software%20(AQOSS)-76448A)](#)
 
-ActiveQuery (synonymous with and wheresoever referred to as "Active Query" or "ActiveQ" or "AQ", whether 
-upper cased, lower cased or capitalised), has adapted this Developer Certificate of Origin (DCO)
-introduced by the Linux Foundation.
+
+"ActiveQuery" is synonymous with and wheresoever referred to as "Active Query" or "ActiveQ" or "AQ", 
+whether upper cased, lower cased or capitalised, and applies to all parts of ActiveQuery projects, 
+programmes, repositories, and spaces. 
+
+ActiveQuery has adapted this Developer Certificate of Origin (DCO) introduced by the Linux Foundation.
 
 
 ```
@@ -70,22 +73,21 @@ By making a contribution to this project, I certify that:
 ## Scope
 
 ActiveQuery projects, programmes, and respositeries use DCO process as detailed through 
-Contribution Policy to ensure that each commit was written by the author or that the author 
+[Contribution Policy](CONTRIBUTION_POLICY.md) to ensure that each commit was written by the author or that the author 
 has the appropriate rights necessary to contribute.
 
-ActiveQuery projects, programmes, respositeries are distributed under the Open Source License 3.0.
-
-Onus is on contributor to run through License Compatiblity chart as outlined through Contribution Policy, 
-before submiting contibutions, with dependencies included.
+ActiveQuery projects, programmes, respositeries are distributed under the Open Source License 3.0. Onus is on contributor 
+to run through License Compatiblity chart as outlined through Contribution Policy, before submiting contibutions, 
+with dependencies included.
 
 ## Enforcement
 
 Instances of copyright, intellectual property rights violations or otherwise may be reported by contacting 
 ActiveQuery at <activeq.framework@gmail.com>.
 
-ActiveQuery Compliance team is obligated to maintain confidentiality with regard to the reporter of an incident. 
-All complaints will be reviewed and investigated and may result in a response that is deemed necessary and 
-appropriate to the circumstances.
+ActiveQuery through Compliance Framework is obligated to maintain confidentiality with regard to the reporter 
+of an incident. All complaints will be reviewed and investigated and may result in a response that is deemed 
+necessary and appropriate to the circumstances.
 
 Developer Certificate of Origin is available through file titled DCO placed at the root
 directory of each ActiveQuery repository and is also available through web access at

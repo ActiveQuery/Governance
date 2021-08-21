@@ -25,13 +25,14 @@
 [![](https://img.shields.io/badge/ActiveQuery%20Open%20Source%20Software%20(AQOSS)-76448A)](#)
 
  
-
+"ActiveQuery" is synonymous with and wheresoever referred to as "Active Query" or "ActiveQ" or "AQ", 
+whether upper cased, lower cased or capitalised, and applies to all parts of ActiveQuery projects, 
+programmes, repositories, and spaces. 
 
 ## Our Pledge
-ActiveQuery (synonymous with and wheresoever referred to as "Active Query" or "ActiveQ" or "AQ", whether 
-upper cased, lower cased or capitalised) meassures success through impact rather than intentions. 
-ActiveQuery Ethical Source Policy is informed by below seven principle points and applies to all parts of 
-ActiveQuery  projects, programmes, respositeries and spaces. 
+ActiveQuery meassures success through impact rather than intentions. This Ethical Source Policy is 
+informed by below seven principle points and applies to all parts of ActiveQuery  projects, 
+programmes, respositeries and spaces. 
 
 ### 1. Our work benefits the commons.
 We grant permission to modify, create derivative works, use and reuse it, in the
@@ -67,13 +68,13 @@ in other tangible ways.
 Instances of violation or otherwise unacceptable behavior in relation to this policy may be
 reported by contacting ActiveQuery at <activeq.framework@gmail.com>. 
 
-ActiveQuery Compliance team is obligated to maintain confidentiality with regard to
+ActiveQuery through Compliance Framework is obligated to maintain confidentiality with regard to
 the reporter of an incident. All complaints will be reviewed and investigated and may result
 in a response that is deemed necessary and appropriate to the circumstances. 
 
 In Contomitance to above end users, contributors and maintainers who do not follow or enforce the
 Ethical Scource Policy in good faith may face temporary or permanent repercussions as determined
-by ActiveQuery Compliance Body.
+in view of rules and guidelines enforced via ActiveQuery through Compliance Framework.
 
 Ethical Source Policy is available through file titled ETHICAL_SOURCE_POLICY placed at the root
 directory of each ActiveQuery repository and is also available through web access at

@@ -24,13 +24,13 @@
 [![](https://img.shields.io/badge/ActiveQuery%20Keep%20It%20Simple%20Smart%20(AQKISS)™-76448A)](#)
 [![](https://img.shields.io/badge/ActiveQuery%20Open%20Source%20Software%20(AQOSS)-76448A)](#)
 
+"ActiveQuery" is synonymous with and wheresoever referred to as "Active Query" or "ActiveQ" or "AQ", 
+whether upper cased, lower cased or capitalised, and applies to all parts of ActiveQuery projects, 
+programmes, repositories, and spaces. 
+
 ## Our Pledge
 
-
-
-ActiveQuery (synonymous with and wheresoever referred to as "Active Query" or "ActiveQ" 
-or "AQ", whether upper cased, lower cased or capitalised) strives to foster an open and 
-welcoming positive environment for everyone.
+ActiveQuery strives to foster an open and welcoming positive environment for everyone.
 
 We as contributors and maintainers of ActiveQuery pledge to make participation in all parts of 
 ActiveQuery projects, programmes, respositeries, spaces, inclusive and our community a harassment-free 
@@ -75,15 +75,14 @@ Examples of unacceptable behavior by participants include:
 
 ## Our Responsibilities
 
-ActiveQuery Governance Body is responsible for and may from time to time define and
-clarify standards of acceptable behavior and are expected to take appropriate and
+ActiveQuery through Compliance Framework is responsible for and may from time to time define 
+and clarify standards of acceptable behavior and are expected to take appropriate and
 fair corrective action in response to any instances of unacceptable behavior.
 
-ActiveQuery Governance Body have the right and responsibility to monitor, remove, edit, or
-reject comments, commits, code, wiki edits, issues, and other contributions
-that are not aligned to this Code of Conduct Policy, or to ban temporarily or
-permanently any contributor for other behaviors that they deem inappropriate,
-threatening, offensive, or harmful.
+ActiveQuery through Compliance Framework has the right and responsibility to monitor, remove, 
+edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not 
+aligned to this Code of Conduct Policy, or to ban temporarily or permanently any contributor for other 
+behaviors that they deem inappropriate, threatening, offensive, or harmful.
 
 ## Scope
 
@@ -107,16 +106,17 @@ further clarification of Representation.
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported by contacting ActiveQuery at <activeq.framework@gmail.com>. 
 
-The ActiveQuery Compliance team is obligated to maintain confidentiality with regard to
-the reporter of an incident. All complaints will be reviewed and investigated and may
-result in a response that is deemed necessary and appropriate to the circumstances. 
+The ActiveQuery through Compliance Framework is obligated to maintain confidentiality 
+with regard to the reporter of an incident. All complaints will be reviewed and 
+investigated and may result in a response that is deemed necessary and appropriate 
+to the circumstances. 
 
 In Contomitance to above contributors and maintainers who do not follow or enforce the
 Code of Conduct Policy in good faith may face temporary or permanent repercussions as determined
 by ActiveQuery Compliance Body.
 
 Code of Conduct Policy is available through file titled CODE_OF_CONDUCT_POLICY placed at the root
-directory of each ActiveQuery respositer and is also available through web at
+directory of each ActiveQuery respositories and is also available through web at
 
 https://ActiveQuery.github.io/governance or  https://github.com/ActiveQuery/Governance
 
