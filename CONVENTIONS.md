@@ -64,7 +64,7 @@ When making breaking changes, we may also introduce deprecation warnings through
 users may learn about the upcoming changes and migrate their code base in advance. Change are documented in 
 the CHANGELOG file placed at the root of each repository.
 
-### Specimen
+#### Specimen
 
 |  Example  |  Action  |  Why  |
 | ------------- | ------------- | ------------- |
@@ -113,7 +113,7 @@ ActiveQuery follows **Pascal Case** for naming all files and folders.
 | ABBR remain unchanged  | ABBRRemainUnchanged |
 | ABBR folder/ABBR file  | ABBRFolder/ABBRFile |
 
-### Specimen
+#### Specimen
 
 | Example  | Action | Why |
 | ------------- | ------------- | ------------- |
