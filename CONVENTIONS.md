@@ -175,16 +175,7 @@ ActiveQuery follows **Kebab Case** for naming all CSS Classes and Variables.
 
 ## 5. Directory Structure
 
-```
-root/
-├── CODE_OF_CONDUCT_POLICY
-├── CONTRIBUTION_POLICY
-├── ETHICAL_POLICY
-├── DCO
-├── CHANGE_LOG
-├── LICENSE
-└── README.md
-```
+### 5.A. Repository Essential Files 
 
 ```
 root/
@@ -194,31 +185,43 @@ root/
 ├── DCO
 ├── CHANGE_LOG
 ├── LICENSE
-├── README.md
-├── FrameworkEntryFile
-└── AQStream
-   │   └── Quarks
-   │        ├── CoreComponentA
-   │        │     └── Files/Folders
-   │        ├── CoreComponentB
-   │        │     └── Files/Folders
-   │        └── CoreComponentGroup
-   │              ├── SubCatagoryA
+├── RepositoryEntryFile
+└── README.md
+```
+
+### 5.B. Repository Sub-Directories 
+
+```
+root/
+├── REPOSITORY_ESSENTIAL_FILES
+├── RepositoryEntryFile
+└── AQStream  
+   │──── Quarks
+   │      ├── CoreComponentA
+   │      │     └── Files/Folders
+   │      ├── CoreComponentB
+   │      │     └── Files/Folders
+   │      └── CoreComponentGroup
+   │              ├── SubComponentA
    │              │     └── Files/Folders
-   │              └── SubCatagoryB
+   │              └── SubComponentB
    │                    └── Files/Folders
    └── Lepton
        ├── CorePluginA
        │    └── Files/Folders
        ├── CorePluginGroup
-       │      ├── SubCatagoryA
+       │      ├── SubPluginA
        │      │     └── Files/Folders
-       │      └── SubCatagoryB
+       │      └── SubPluginB
        │            └── Files/Folders
        └── CorePluginB
             └── Files/Folders
 
 ```
+
+
+### 5.C. MarketSpace 
+
 ```
 marketplace/
 ├── CODE_OF_CONDUCT_POLICY
