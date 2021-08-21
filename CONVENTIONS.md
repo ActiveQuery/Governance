@@ -73,7 +73,7 @@ the CHANGELOG file placed at the root of each repository.
 | 20.1  | Reflect |  Though it may seem reasonable to omit MICRO if its value is zero. It is not consistent with the adopted convention, having 20.1 (YY.MINOR) followed by 20.1.1 (YY.MINOR.MICRO) may be confusing and would certainly give rise to version parsing issues going forward. |
 | 20.1.0  | Effective | Adhers to adopted YY.MINOR.MICRO convention. |
 
-## 2. Naming Standards
+## 3. Naming Standards
 
 ActiveQuery has standardised naming logic and apply to all parts of ActiveQuery projects, Programmes, repositories 
 and spaces. 
@@ -83,13 +83,13 @@ other than as stated against each sub-section of section 2 is not acceptable.
 
 Consequent may cause rejection of commit or repeal of previous submitted contributions. 
 
-### 2.A. Branding
+### 3.A. Branding
 
-**5.B.1.i.** Branding including but not limited to characters, words, artworks, graphics, color schemes, slogans etc are copyrighted to and reserved to ActiveQuery.
+** 3.A.1** Branding including but not limited to characters, words, artworks, graphics, color schemes, slogans etc are copyrighted to and reserved to ActiveQuery.
 
-**5.B.1.ii.** Letters **"aq"** in ActiveQuery graphical Logo will strictly use **Flat Case** as styling.
+**3.A.2** Letters **"aq"** in ActiveQuery graphical Logo will strictly use **Flat Case** as styling.
 
-**5.B.1.iii.** ActiveQuery (synonymous with "Active Query" and wheresoever abbreviated as "ActiveQ" 
+** 3.A.3.** ActiveQuery (synonymous with "Active Query" and wheresoever abbreviated as "ActiveQ" 
 or "AQ", whether upper cased, lower cased or capitalised) branding will always follow 
 **Pascal Case**. 
 
@@ -104,7 +104,7 @@ or otherwise, then **Lisp Case** will be adopted as effective fall back, as it i
 | /active-query/ABRWillChangeToo/  | /active-query/abr-will-change-too |
 
 
-**5.B.1.iv.** Other than aforestated all other case formats are considered ineffective.
+**3.A.4.** Other than aforestated all other case formats are considered ineffective.
 
 
 ### 2.B File & Folder
