@@ -91,13 +91,14 @@ or "AQ", whether upper cased, lower cased or capitalised) branding will always f
 
 However, this does not refute the probability where adoption is not possible e.g. in case of web url(s)
 or otherwise, then **Lisp Case** will be adopted as effective fall back as it is safe format for both filesystem and URL.
- All other case formats are considered ineffective.
 
 | Pascal Case | Kebab Case |
 | ------------- | ------------- |
 | /Governance  | /governance |
 | /ActiveQuery  | /active-query |
 | /active-query/ABRWillChangeToo/  | /active-query/abr-will-change-too |
+
+Other than aforestated all other case formats are considered ineffective.
 
 **5.B.1.ii.** Letters **"aq"** in ActiveQuery graphical Logo will strictly use **Flat Case** as styling.
 
