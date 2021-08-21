@@ -94,7 +94,7 @@ the CHANGELOG file placed at the root of each repository.
 | 20  | Ineffective | Use of YY on its own is meanginless. |
 | 20.0  | Ineffective | MINOR must start from 1. |
 | 20.1  | Reflect | Though it may seem reasonable to omit MICRO if its value is zero. It is not consistent with the adopted convention, having 20.1 (YY.MINOR) followed by 20.1.1 (YY.MINOR.MICRO) may be confusing and would certainly give rise to version parsing issues going forward. |
-| -dito-|-dito- |If the case be that updates are of extremly low frequency or carry significant impact with other than obvious/cosmatic changes have little or no micro updates e.g. legal/information doucmentation then YY.MINOR may be considered post reflection. |
+| -dito-|-dito- |If the case be that updates are of extremly low frequency or carry significant impact with only obvious/cosmatic changes as micro updates e.g. legal/information doucmentation then YY.MINOR may be considered post reflection. |
 | 20.1.0  | Effective | Adhers to adopted YY.MINOR.MICRO convention. |
 
 ## 4. Naming Standards
