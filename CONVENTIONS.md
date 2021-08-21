@@ -37,7 +37,30 @@ We looked around and picked the best of good practices and incorporated them int
 with the intention to keep community members on one page in adhering to hard-and-fast rules that 
 ActiveQuery has universally adopted.
 
-## 1. Action Vocabulary
+
+# 1. Branding
+
+This perticular information is for wider generall awarness only. Branding including but not limited 
+to characters, words, artworks, graphics, color schemes, slogans etc are copyrighted to and 
+their use reserved to ActiveQuery.
+
+**1.A** Letters **"aq"** in ActiveQuery graphical Logo will strictly use **Flat Case** as styling.
+
+**1.B.** Wording **"ActiveQuery"** and will always use **Pascal Case**. However, this does not 
+refute the probability where adoption is not possible e.g. in case of web url(s) or otherwise, then 
+**Lisp Case** will be adopted as effective fall back, it is safe format for both filesystem and URL.
+
+| Pascal Case | Lisp Case |
+| ------------- | ------------- |
+| /Governance  | /governance |
+| /ActiveQuery  | /active-query |
+| /active-query/ABRWillChangeToo/  | /active-query/abr-will-change-too |
+
+**1.C.** Other than aforestated all other case formats are considered ineffective.
+
+
+
+## 2. Action Vocabulary
 
 Founding auther of ActiveQuery believe things are never good or bad persay, they are simply effective 
 or ineffective to the cause. Therefore, ActiveQuery has done away the binary Yes/No, Acceptable/Unaccpetable 
@@ -49,7 +72,7 @@ format and has adopted more inclusive vocabulary.
 | **Reflect** | If you arrive at a point with good reason to deviate from the convention, then do so. Aim to be consistent, and before going forward do mitigate possible conflict at wider scope. |
 | **Ineffective**  | Soemthing that has not shown merit, is never preffered and you should almost always avoid. |
 
-## 2. Calendar Versioning (CalVer)
+## 3. Calendar Versioning (CalVer)
 
 ActiveQuery follows [CalVer scheme of semantic versioning](https://calver.org) and has adopted 
 **YY.MINOR.MICRO** as incremented version numbering format.
@@ -73,7 +96,7 @@ the CHANGELOG file placed at the root of each repository.
 | 20.1  | Reflect |  Though it may seem reasonable to omit MICRO if its value is zero. It is not consistent with the adopted convention, having 20.1 (YY.MINOR) followed by 20.1.1 (YY.MINOR.MICRO) may be confusing and would certainly give rise to version parsing issues going forward. |
 | 20.1.0  | Effective | Adhers to adopted YY.MINOR.MICRO convention. |
 
-## 3. Naming Standards
+## 4. Naming Standards
 
 ActiveQuery has standardised naming logic and apply to all parts of ActiveQuery projects, Programmes, repositories 
 and spaces. 
@@ -83,28 +106,7 @@ other than as stated against each sub-section of section 2 is not acceptable.
 
 Consequent may cause rejection of commit or repeal of previous submitted contributions. 
 
-### 3.A. Branding
-
-This information is for if wider generall awarness only, branding including but not limited 
-to characters, words, artworks, graphics, color schemes, slogans etc are copyrighted to and 
-their use reserved to ActiveQuery.
-
-**3.A.1** Letters **"aq"** in ActiveQuery graphical Logo will strictly use **Flat Case** as styling.
-
-**3.A.2.** Wording **"ActiveQuery"** and will always use **Pascal Case**. However, this does not 
-refute the probability where adoption is not possible e.g. in case of web url(s) or otherwise, then 
-**Lisp Case** will be adopted as effective fall back, it is safe format for both filesystem and URL.
-
-| Pascal Case | Kebab Case |
-| ------------- | ------------- |
-| /Governance  | /governance |
-| /ActiveQuery  | /active-query |
-| /active-query/ABRWillChangeToo/  | /active-query/abr-will-change-too |
-
-**3.A.3.** Other than aforestated all other case formats are considered ineffective.
-
-
-### 2.B File & Folder
+### 4.A File & Folder
 
 ActiveQuery follows **Pascal Case** for naming all files and folders.
 
@@ -132,7 +134,7 @@ ActiveQuery follows **Pascal Case** for naming all files and folders.
 | SCREAMING-LISP-CASE  | Ineffective | Error prone, obsolete trend and harder for general public to follow. |
 | Train-Case  | Ineffective |Error prone, almost nevre adopted and harder for general public to follow. |
 
-### 2.C. Legal Documentation 
+### 4.B. Legal Documentation 
 
 ActiveQuery follows **Screaming Snake Case** for naming all ledgal documentation files.
 
@@ -142,9 +144,9 @@ ActiveQuery follows **Screaming Snake Case** for naming all ledgal documentation
 | ABBR  | ABBR |
 | some file  | SOME_FILE |
 
-### 2.D. JavaScript (JS)
+### 4.C. JavaScript (JS)
 
-**2.D.i.** ActiveQuery follows **Dromedary Case** for naming all JS Objects.
+**4.C.i.** ActiveQuery follows **Dromedary Case** for naming all JS Objects.
 
 | JS Objects | Dromedary Case |
 | ------------- | ------------- |
@@ -153,7 +155,7 @@ ActiveQuery follows **Screaming Snake Case** for naming all ledgal documentation
 | myobject  | myObject |
 | myobjectname  | myObjectName |
 
-**2.D.ii.** ActiveQuery follows **Pascal Case** for naming all JS Classes.
+**4.C.ii.** ActiveQuery follows **Pascal Case** for naming all JS Classes.
 
 | JS Classes | Pascal Case |
 | ------------- | ------------- |
@@ -161,7 +163,7 @@ ActiveQuery follows **Screaming Snake Case** for naming all ledgal documentation
 | myclass  | MyClass |
 | myconstantname  | MyConstantName |
 
-### 2.E. Cascading Style Sheet (CSS)
+### 4.D. Cascading Style Sheet (CSS)
 
 ActiveQuery follows **Kebab Case** for naming all CSS Classes and Variables.
 
@@ -171,7 +173,7 @@ ActiveQuery follows **Kebab Case** for naming all CSS Classes and Variables.
 | my class  | my-class |
 | my variable | --my-variable |
 
-### 2.F. Directory Structure
+## 5. Directory Structure
 
 ```
 root/
