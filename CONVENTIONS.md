@@ -145,30 +145,38 @@ ActiveQuery follows **Screaming Snake Case** for naming all ledgal and informati
 | ABBR  | ABBR |
 | some file  | SOME_FILE |
 
-### 4.C. JavaScript (JS)
+### 4.C. JavaScript (JS) & PHP
 
-**4.C.i.** ActiveQuery follows **Dromedary Case** for naming all JS Objects.
+**4.C.i.** ActiveQuery uses **Dromedary Case** for naming JS & PHP Objects.
 
-| JS Objects | Dromedary Case |
+| Objects | Dromedary Case |
 | ------------- | ------------- |
 | my  | my |
 | myfunction  | myFunction |
 | myobject  | myObject |
 | myobjectname  | myObjectName |
 
-**4.C.ii.** ActiveQuery follows **Pascal Case** for naming all JS Classes.
+**4.C.ii.** ActiveQuery uses **Pascal Case** for naming JS & PHP Classes.
 
-| JS Classes | Pascal Case |
+| Classes | Pascal Case |
 | ------------- | ------------- |
 | my  | My |
 | myclass  | MyClass |
 | myconstantname  | MyConstantName |
 
+**4.C.iii.** ActiveQuery uses **Pascal Case** for naming PHP Namespaces.
+
+| Namespace | Pascal Case |
+| ------------- | ------------- |
+| my  | My |
+| mynamespace  | MyNameSpace |
+
+
 ### 4.D. Cascading Style Sheet (CSS)
 
-ActiveQuery follows **Kebab Case** for naming all CSS Classes and Variables.
+ActiveQuery follows **Lisp Case** for naming all CSS Classes and Variables.
 
-| CSS Classes/Variables | Kebab Case |
+| CSS Classes/Variables | Lisp Case |
 | ------------- | ------------- |
 | my  | my |
 | my class  | my-class |
