@@ -1,10 +1,9 @@
-# ActiveQuery Conventions v21.1
+# ActiveQuery Conventions v21.1.0
 
 [![](https://gpvc.arturio.dev/ActiveQ)](#)
 [![](https://img.shields.io/badge/Coverage-100%25-brightgreen)](#)
 [![](https://img.shields.io/badge/Open%20Source%20License-OSL%203.0-brightgreen)](#)
 [![](https://img.shields.io/badge/ActiveQuery%20Complance%Framework-v21.0-brightgreen)](#)
-
 
 [![](https://img.shields.io/badge/Ethical%20Source%20Policy-1F618D)](#)
 [![](https://img.shields.io/badge/Contributors%20Covenant-1F618D)](#)
@@ -14,7 +13,6 @@
 [![](https://img.shields.io/badge/Ethical%20Accessibility-1F618D)](#)
 [![](https://img.shields.io/badge/Ethical%20Privacy-1F618D)](#)
 [![](https://img.shields.io/badge/Ethical%20Compensation-1F618D)](#)
-
 
 [![](https://img.shields.io/badge/ActiveQuery%20Cascading%20Style%20Sheets%20(AQCSS)™-76448A)](#)
 [![](https://img.shields.io/badge/ActiveQuery%20Cascading%20JavaScript%20(AQJS)™-76448A)](#)
@@ -28,14 +26,30 @@ ActiveQuery (synonymous with and wheresoever referred to as "Active Query" or "A
 whether upper cased, lower cased or capitalised) and applies to all parts of ActiveQuery projects, 
 programmes, repositories, and spaces. 
 
-ActiveQuery is group open source projects that are under very active development. 
-There's always more to be done and we are always working on making contributing to 
-projects as easy, inclusive and transparent as possible. ActiveQuery welcomes anyone 
-willing to put in the time and effort to help us and our community of users.
+This guide presents preferred conventions but, most importantly describes as to why certain style 
+rules take precedent?
 
-This document will help answer common questions that you may have.
+ActiveQuery is group open source projects that are under very active development. Issues covered 
+hereunder not only span to aesthetic issues of formatting or coding standards but other types of 
+conventions or  as well. 
 
-## 1. Calendar Versioning (CalVer)
+We looked around and picked the best of good practices and incorporated them into this document 
+with the intention to keep community members on one page in adhering to hard-and-fast rules that 
+ActiveQuery has universally adopted.
+
+## 1. Action Vocabulary
+
+Founding auther of ActiveQuery believe things are never good or bad persay, they are simply effective 
+or ineffective to the cause. Therefore, ActiveQuery has done away the binary Yes/No, Acceptable/Unaccpetable 
+format and has adopted more inclusive vocabulary.   
+
+| Action | Impact |
+| ------ | ------ |
+| **Effective**  | Soemthing that has shown merit, and is always preffered. There would rarely be a case where one would need to break the convention. |
+| **Reflect** | If you arrive at a point with good reason to deviate from the convention, then do so. Aim to be consistent, and before going forward do mitigate possible conflict at wider scope. |
+| **Ineffective**  | Soemthing that has not shown merit, is never preffered and you should almost always avoid. |
+
+## 2. Calendar Versioning (CalVer)
 
 ActiveQuery follows [CalVer scheme of semantic versioning](https://calver.org) and has adopted 
 **YY.MINOR.MICRO** as incremented version numbering format.
@@ -49,6 +63,13 @@ ActiveQuery follows [CalVer scheme of semantic versioning](https://calver.org) a
 When making breaking changes, we may also introduce deprecation warnings through MICRO version first so that 
 users may learn about the upcoming changes and migrate their code base in advance. Change are documented in 
 the CHANGELOG file placed at the root of each repository.
+
+|  Example  |  Action  |  Why  |
+| ------------- | ------------- | ------------- |
+| 20  | Ineffective | Use of YY on its own is meanginless. |
+| 20.0  | Ineffective | MINOR must start from 1. |
+| 20.1  | Reflect |  Though it may seem reasonable to omit MICRO if its value is zero. It is not consistent with the adopted convention, having 20.1 (YY.MINOR) followed by 20.1.1 (YY.MINOR.MICRO) may be confusing and would certainly give rise to version parsing issues going forward. |
+| 20.1.0  | Effective | Adhers to adopted YY.MINOR.MICRO convention. |
 
 ## 2. Naming Standards
 
@@ -67,15 +88,15 @@ or "AQ", whether upper cased, lower cased or capitalised) branding will always f
 **Pascal Case**. 
 
 However, this does not refute the probability where adoption is not possible e.g. in case of web url(s)
-or otherwise, then **Kebab Case** will be adopted as fallback.
+or otherwise, then **Lisp Case** will be adopted as fall back.
 
 | Pascal Case | Kebab Case |
 | ------------- | ------------- |
 | /Governance  | /governance |
 | /ActiveQuery  | /active-query |
-| /active-query/ABRReaminUnchanged/  | /active-query/ABR-reamin-unchanged |
+| /active-query/ABRWillChangeToo/  | /active-query/abr-will-change-too |
 
-**5.B.1.ii.** Letters **"aq"** in ActiveQuery graphical Logo will strictly use **Lower Case** as styling.
+**5.B.1.ii.** Letters **"aq"** in ActiveQuery graphical Logo will strictly use **Flat Case** as styling.
 
 ### 2.B File & Folder
 
@@ -88,6 +109,20 @@ ActiveQuery follows **Pascal Case** for naming all files and folders.
 | some folder/some file  | SomeFolder/SomeFile |
 | ABBR remain unchanged  | ABBRRemainUnchanged |
 | ABBR folder/ABBR file  | ABBRFolder/ABBRFile |
+
+| Example  | Action | Why |
+| ------------- | ------------- | ------------- |
+| PascalCase  | Effective | Conforms to prefered convention and will be consistent throughout.|
+| lisp-case  | Reflect | Genrally safe for URLs but in some cases may require path encoding. |
+| snake_case  | Reflect | Genrally safe for filesystem but is an obsolete URL trend and in some cases may require path encoding. |
+| flat case  | Ineffective | Error prone |
+| UPPER FLAT CASE  | Ineffective | Error prone |
+| dot.case  | Ineffective | Error Prone, rarely supported in by filesystem or URL parsers and always avoided.|
+| SCREAMING_SNAKE_CASE  | Ineffective | Reserved format for naming core legal/information documents. Error prone, harder for general public to follow, obsolete trend. |
+| dromedaryCase  | Ineffective | Error prone, harder for general public to follow, almost nevre used.  |
+| camel_Snake_Case  | Ineffective | Error prone, harder for general public to follow, almost nevre used. |
+| SCREAMING-LISP-CASE  | Ineffective | Error prone, harder for general public to follow, obsolete trend. |
+| Train-Case  | Ineffective | Error prone, harder for general public to follow, almost nevre used. |
 
 ### 2.C. Legal Documentation 
 
@@ -195,3 +230,5 @@ marketplace/
        └── Files/Folders
 
 ```
+
+
