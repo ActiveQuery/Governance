@@ -1,6 +1,6 @@
 # ActiveQuery Conventions v21.1.0
 
-[![](https://gpvc.arturio.dev/ActiveQuery)](#)
+[![](https://gpvc.arturio.dev/ActiveQ)](#)
 [![](https://img.shields.io/badge/Coverage-100%25-brightgreen)](#)
 [![](https://img.shields.io/badge/Open%20Source%20License-OSL%203.0-brightgreen)](#)
 [![](https://img.shields.io/badge/ActiveQuery%20Complance%Framework-v21.0-brightgreen)](#)
