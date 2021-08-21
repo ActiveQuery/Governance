@@ -85,12 +85,17 @@ Consequent may cause rejection of commit or repeal of previous submitted contrib
 
 ### 2.A. Branding
 
-**5.B.1.i.** ActiveQuery (synonymous with "Active Query" and wheresoever abbreviated as "ActiveQ" 
+**5.B.1.i.** Branding including but not limited to characters, words, artworks, graphics, color schemes, slogans etc are copyrighted to and reserved to ActiveQuery.
+
+**5.B.1.ii.** Letters **"aq"** in ActiveQuery graphical Logo will strictly use **Flat Case** as styling.
+
+**5.B.1.iii.** ActiveQuery (synonymous with "Active Query" and wheresoever abbreviated as "ActiveQ" 
 or "AQ", whether upper cased, lower cased or capitalised) branding will always follow 
 **Pascal Case**. 
 
+
 However, this does not refute the probability where adoption is not possible e.g. in case of web url(s)
-or otherwise, then **Lisp Case** will be adopted as effective fall back as it is safe format for both filesystem and URL.
+or otherwise, then **Lisp Case** will be adopted as effective fall back, as it is safe format for both filesystem and URL.
 
 | Pascal Case | Kebab Case |
 | ------------- | ------------- |
@@ -99,9 +104,8 @@ or otherwise, then **Lisp Case** will be adopted as effective fall back as it is
 | /active-query/ABRWillChangeToo/  | /active-query/abr-will-change-too |
 
 
-**5.B.1.ii.** Letters **"aq"** in ActiveQuery graphical Logo will strictly use **Flat Case** as styling.
+**5.B.1.iv.** Other than aforestated all other case formats are considered ineffective.
 
-**5.B.1.iiI.** Other than aforestated all other case formats are considered ineffective.
 
 ### 2.B File & Folder
 
