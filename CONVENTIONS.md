@@ -98,9 +98,10 @@ or otherwise, then **Lisp Case** will be adopted as effective fall back as it is
 | /ActiveQuery  | /active-query |
 | /active-query/ABRWillChangeToo/  | /active-query/abr-will-change-too |
 
-Other than aforestated all other case formats are considered ineffective.
 
 **5.B.1.ii.** Letters **"aq"** in ActiveQuery graphical Logo will strictly use **Flat Case** as styling.
+
+**5.B.1.iiI.** Other than aforestated all other case formats are considered ineffective.
 
 ### 2.B File & Folder
 
