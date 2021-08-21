@@ -1,6 +1,4 @@
 
-# ActiveQuery License
-
 "ActiveQuery" is synonymous with and wheresoever referred to as "Active Query" or "ActiveQ" or "AQ", 
 whether upper cased, lower cased or capitalised, and applies to all parts of ActiveQuery projects, 
 programmes, repositories, and spaces. 
