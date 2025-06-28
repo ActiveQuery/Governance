@@ -31,7 +31,7 @@ programmes, repositories, and spaces.
 In the interest of fostering an open and welcoming environment ActiveQuery Compliance Framework has been adopted 
 in persuance of envisioning and enforcing policies, rules, processes, licenses, agreements and guidelines;
 
-* [LICENSE][LI]
+* [LICENSE](https://github.com/ActiveQuery/Governance/blob/main/LICENSE)
 
 * [Ethical Source Policy][ESP]
 
