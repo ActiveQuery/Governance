@@ -1,4 +1,4 @@
-# ActiveQuery Conventions v21.1
+# ActiveQuery Conventions v25.6
 
 [![](https://gpvc.arturio.dev/ActiveQ)](#)
 [![](https://img.shields.io/badge/Coverage-100%25-brightgreen)](#)
