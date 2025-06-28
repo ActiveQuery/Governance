@@ -174,13 +174,32 @@ ActiveQuery follows **Screaming Snake Case** for naming all ledgal and informati
 
 ### 4.D. Cascading Style Sheet (CSS)
 
-ActiveQuery follows **Lisp Case** for naming all CSS Classes and Variables.
+ActiveQuery follows **Lisp Case** for naming all CSS classes and variables.
 
-| CSS Classes/Variables | Lisp Case |
-| ------------- | ------------- |
-| my  | my |
-| my class  | my-class |
-| my variable | --my-variable |
+| CSS Classes / Variables | Lisp Case Example |
+|------------------------|------------------|
+| Single word            | `my`             |
+| Multiple words (class) | `my-class`       |
+| CSS variables          | `--my-variable`  |
+
+#### BEM Naming Convention
+
+ActiveQuery CSS uses a **BEM-inspired naming convention** adapted to Lisp Case and our namespace.  
+
+- The `aq-` prefix is used as a namespace for all components.  
+- Components and subcomponents are connected with hyphens (`-`) instead of the traditional BEM underscores (`__`).  
+- Modifiers use double hyphens (`--`) as in standard BEM.
+
+**Example:**
+
+| Class Name               | Description                        |
+|--------------------------|----------------------------------|
+| `aq-text--size`          | Modifier `size` applied to the `aq-text` block |
+| `aq-swatch-text--canvas` | Modifier `canvas` applied to the `text` element of the `aq-swatch` component (using hyphen instead of underscore) |
+| `aq-flexon--column-wrap-reverse` | Multiple modifiers `column-wrap-reverse` applied to the `aq-flexon` block, indicating a flex container with reversed column wrap direction |
+
+This approach maintains the modularity and clarity of BEM while aligning with the ActiveQuery style and Lisp Case conventions.
+
 
 ## 5. Directory Structure
 
